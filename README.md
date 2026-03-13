@@ -1,4 +1,5 @@
-# Test_Task_Apergenov_D.K
+# Transformation_Apergenov_D.K
+
 
 Проект реализует ETL-пайплайн для выгрузки данных прогнозов погоды.
 Данные загружаются из API в csv файл и PostgreSQL.
